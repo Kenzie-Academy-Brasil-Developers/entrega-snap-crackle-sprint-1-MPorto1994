@@ -25,3 +25,4 @@ function snapCrackle (maxValue){
     }
     return string
 }
+document.write("The snapCrackle is: " + snapCracklePrime(15) + "/br>")
