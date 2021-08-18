@@ -45,4 +45,4 @@ function snapCracklePrime (maxValue){
     }    
     return string
 }
-document.write("The snapCrackle Prime is: " + snapCracklePrime(15) + "/br>")
+document.write("The snapCrackle Prime is: " + snapCracklePrime(15))
