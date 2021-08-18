@@ -25,4 +25,4 @@ function snapCrackle (maxValue){
     }
     return string
 }
-document.write("The snapCrackle is: " + snapCrackle(15) + "/br>")
+document.write("The snapCrackle is: " + snapCrackle(15) + "</br>")
